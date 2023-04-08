@@ -3,7 +3,9 @@
 
 <h1>Information Security Analyst Projects</h1>
 
-<b> This is a set of collaboration projects between [Faris Nabeel](https://www.linkedin.com/in/fnabeel/) and [Vanessa Mancia](https://www.linkedin.com/in/vanessamancia/). We are both Cybersecurity Professionals looking to share our expertise. We deep dive into configuring our own cloud-based SOC within Azure, using Microsoft Sentinel as our SIEM. We will setup logging, alerts, and practice incident response against live, malicious traffic.<b/>
+<b> This is a set of collaboration projects between [Faris Nabeel](https://www.linkedin.com/in/fnabeel/) and [Vanessa Mancia](https://www.linkedin.com/in/vanessamancia/). We are both Cybersecurity Professionals looking to share our expertise. 
+
+We deep dive into configuring our own cloud-based SOC within Azure, using Microsoft Sentinel as our SIEM. We will setup logging, alerts, and practice incident response against live, malicious traffic.<b/>
 
 ---
 
@@ -16,4 +18,5 @@
 If you have any questions, feel free to connect with us over on LinkedIn and ask anything ! 
 
 Thank you,
+
 Faris & Vanessa
