@@ -20,6 +20,6 @@ If you have any questions, feel free to connect with us over on LinkedIn and ask
 
 Thank you,
 
-Faris N & Vanessa M
+Faris & Vanessa 
 
 ![fist bump](https://user-images.githubusercontent.com/109401839/230737415-9694e3c6-e11c-4757-9d6d-6e89f28ce156.gif)
