@@ -1,4 +1,5 @@
-![security-265130](https://user-images.githubusercontent.com/109401839/230737049-5549e6dc-7349-4d4c-8357-37b517e2da61.jpg)
+![main picture](https://user-images.githubusercontent.com/109401839/230750863-8bee1f2d-e761-49a4-a25e-a9eba07b95b0.png)
+
 
 
 <h1>Information Security Analyst Projects</h1>
